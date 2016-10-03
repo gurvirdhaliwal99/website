@@ -23,43 +23,20 @@
 			</nav>
 
 			<article>
-			 <h1>Menu</h1>
-			   <p>Chuck E.Cheese's menu offers a wide variety of choices that can satisfy the hunger of any kid. Dishes such as pizzas, chicken wings and sandwiches with sides, deserts and refreshing drinks. </p>
-			 <h4>Pizza</h4>
-			  <h5>Pizza dough made fresh in-house, never frozen, topped with our own tomato herb sauce, freshly shredded mozzarella cheese and your choice of great meat and vegetable toppings</h5>
-				<p>-Pepperoni<br>-Super Combo (Pepperoni, sausage, beef, black olives, mushrooms, red onions and green peppers)<br>-All meat combo(Pepperoni, sausage, bacon, Canadian bacon and beef)<br>-Cali Alfredo(A creamy Alfredo sauce topped with spinach, sausage, mushrooms and roasted chicken breast.)<br>Vegetarian(Black olives, mushrooms, red onions, green peppers and tomatoes)<br>-Gluten-free(An individual cheese pizza prepared in a dedicated gluten-free facility, shipped, baked and delivered to your table in a sealed bag)<br>-BBQ Chicken(Rich, smoky BBQ sauce topped with strips of roasted chicken breast, red onions, green peppers and crispy onions)</p>
-				<img src="Images/menu_wide_pizza.png" >;
-			 <h4>Wings</h4>
-			  <h5>Choose bone-in buffalo wings or boneless oven-baked, all-white-meat nuggets in sweet chili sauce, smoky BBQ sauce or our hot buffalo wing sauce. Served with celery and blue cheese dressing</h5>
-				<p>-Buffalo<br>-BBQ<br>-Sweet Chili</p>
-				<img src="Images/menu_wide_wings.png" >;
-			 <h4>Wraps/Sandwiches</h4>
-			  <h5>Each wrap or sandwich is served with your choice of fresh fruit, oven-baked French fries or carrot slims, and lite ranch dressing.</h5>
-				<p>-BBQ Chicken Ciabatta (Oven-baked on a ciabatta roll topped with melted Colby-Jack cheese, BBQ chicken breast, crispy onions, lettuce, tomato and lite ranch dressing.)<br>-Italian Sub Ciabatta (Oven-baked on a ciabatta roll topped with melted mozzarella cheese, ham, pepperoni, lettuce, tomato, red onion, mayonnaise and balsamic vinaigrette.)<br>-Chicken Caesar Wrap(A whole-wheat tortilla wrap filled with chicken breast, Romaine lettuce, Caesar dressing and Parmesan cheese.)<br>-Club Wrap(A whole-wheat tortilla wrap filled with roasted chicken breast, ham, bacon, Colby-Jack cheese, lettuce, tomato and mayo.)</p>
-				<img src="Images/menu_wrap_1.png" >;
-				<img src="Images/menu_wrap_2.png" >;
-				<img src="Images/menu_wrap_3.png" >;
-				<img src="Images/menu_wrap_4.png" >;
-			 <h4>Salad</h4>
-			  <h5>A selection of over 40 items, including fresh-cut vegetables, fruits, meats and cheeses, plus pasta salads, dressings, and other toppers.</h5>
-			   <img src="Images/menu_wide_salads.png" >;
-			 <h4>Sides</h4>
-			  <p>-Sample Platter(Two orders of cheesy breadsticks, large order of oven-baked fries and your choice of any style wings.)<br>-Cheesy Bread)(Pizza dough stuffed and topped with garlic spread and freshly shredded mozzarella served with warm pizza sauce and lite ranch dressing.)<br>-Buffalo Cheesy Bread(Fresh pizza dough stuffed with buffalo chicken breast and shredded mozzarella. Topped with mozzarella, Parmesan, and buffalo sauce. Includes extra sauce, celery sticks, and blue cheese or lite ranch dressing.)<br>-Parmesan Breadsticks(Fresh-made dough topped with a garlic buttery blend and Parmesan cheese, then baked until golden brown. Served with lite ranch dressing and warm pizza sauce.)<br>-Tater Bites(Oven-baked french fries lightly salted and served with ketchup and lite ranch dressing.)</p>
-			    <img src="Images/menu_starters_1.png">;
-				<img src="Images/menu_starters_2.png">;
-				<img src="Images/menu_starters_3.png">;
-				<img src="Images/menu_starters_4.png">;
-				<img src="Images/menu_starters_5.png">;
-			 <h4>Desserts</h4>
-			    <P>-Churros (Served with both salted caramel and white chocolate icing sauce.)<br>-Apple Pizza (An individual-size pizza topped with cinnamon apples and shortbread topping, and drizzled with sweet icing.)<br>-Cinnamon Breadsticks (Freshly baked, topped with cinnamon spread and shortbread topping, and drizzled with sugar icing.)</p>
-				<img src="Images/menu_desserts_1.png">;
-				<img src="Images/menu_desserts_2.png">;
-				<img src="Images/menu_desserts_3.png">;
-			 <h4>Drinks</h4>
-				<h5>Free refills on all soft drinks.</h5>	
-			   <p>-Pepsi<br>-Mountain Dew<br>-Iced Tea<br>-Root Bear<br>-Water<br>-Milk</p>
-				<img src="Images/menu_wide_beverages.png" >;
+			<h1>About</h1>
+				<p>Chuck E.Cheese's is the place where a kid can be a kid. Great food, games and music, Chuck E. Cheese's will be your kids favorite place.
+				Chuck E Cheese's has been around for almost 40 years with out first resturant opening in San Jose, California in 1977. Almost half a century Chuck E.Cheese's has been the place where a kid can be a kid.
+				So make sure that your next birthday party is booked here and learn why Chuck E.Cheese's has been kids favorite place for half a century.</p>
+			<h1>Contact Us</h1>
+			<h4>Guest Relations</h4>
+				<p>1-888-778-7193<br>Monday-Sunday<br>8am-5pm (CT)</p>
+			<h4>CEC Entertainment, Inc.</h4>
+				<p>1707 Market Place Blvd, Suite 200<br>Irving, TX 75063<br>Phone: 972-258-8507</p>
+			<h4>Press Inquiries</h4>
+				<p>Media Relations Only<br>Office: 972-258-4223<br>Evenings & Weekends: 214-627-8019</p>
+				<p>For specific resturant numbers head to location to find those.</p>
 			</article>
+			
 
 			<footer>By Gurvir Dhaliwal</footer>
 
