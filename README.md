@@ -1,69 +1,101 @@
 # website
-<!DOCTYPE html>
-<html>
-	<head>
-		<link rel="stylesheet" type="text/css" href="stylesheet.css">
-	</head>
-	
-	<body>
+			div.container {
+			width: 100%;
+			border: 4px solid gray;
+			}
 
-		<div class="container">
+			header {
+				padding: 6em;
+				color: #1aff1a;
+				background-color: #1aff1a;
+				background-image: url("Images/logo.png");
+				clear: left;
+				text-align: center;
+				background-repeat: no-repeat;
+				background-position: center; 
+			}
 
-			<header>
-			   <h1></h1>
-			</header>
-			  
-			<nav>
-			  <ul>
-				<li><a href="Home.html">Menu</a></li>
-				<li><a href="Location.html">Locations</a></li>
-				<li><a href="Reviews.html">Reviews</a></li>
-				<li><a href="ContactUs.html">Contact Us</a></li>
-			  </ul>
-			</nav>
+			footer {
+				padding: 1em;
+				color: #1affff;
+				background-color: #1aff1a;
+				clear: left;
+				text-align: center;
+			}
+			
+			nav {
+				float: left;
+				max-width: 160px;
+				margin: 0;
+				max-height: 200px;
+				background-color: #1aff1a;
+			}
 
-			<article>
-			 <h1>Menu</h1>
-			   <p>Chuck E.Cheese's menu offers a wide variety of choices that can satisfy the hunger of any kid. Dishes such as pizzas, chicken wings and sandwiches with sides, deserts and refreshing drinks. </p>
-			 <h4>Pizza</h4>
-			  <h5>Pizza dough made fresh in-house, never frozen, topped with our own tomato herb sauce, freshly shredded mozzarella cheese and your choice of great meat and vegetable toppings</h5>
-				<p>-Pepperoni<br>-Super Combo (Pepperoni, sausage, beef, black olives, mushrooms, red onions and green peppers)<br>-All meat combo(Pepperoni, sausage, bacon, Canadian bacon and beef)<br>-Cali Alfredo(A creamy Alfredo sauce topped with spinach, sausage, mushrooms and roasted chicken breast.)<br>Vegetarian(Black olives, mushrooms, red onions, green peppers and tomatoes)<br>-Gluten-free(An individual cheese pizza prepared in a dedicated gluten-free facility, shipped, baked and delivered to your table in a sealed bag)<br>-BBQ Chicken(Rich, smoky BBQ sauce topped with strips of roasted chicken breast, red onions, green peppers and crispy onions)</p>
-				<img src="Images/menu_wide_pizza.png" >;
-			 <h4>Wings</h4>
-			  <h5>Choose bone-in buffalo wings or boneless oven-baked, all-white-meat nuggets in sweet chili sauce, smoky BBQ sauce or our hot buffalo wing sauce. Served with celery and blue cheese dressing</h5>
-				<p>-Buffalo<br>-BBQ<br>-Sweet Chili</p>
-				<img src="Images/menu_wide_wings.png" >;
-			 <h4>Wraps/Sandwiches</h4>
-			  <h5>Each wrap or sandwich is served with your choice of fresh fruit, oven-baked French fries or carrot slims, and lite ranch dressing.</h5>
-				<p>-BBQ Chicken Ciabatta (Oven-baked on a ciabatta roll topped with melted Colby-Jack cheese, BBQ chicken breast, crispy onions, lettuce, tomato and lite ranch dressing.)<br>-Italian Sub Ciabatta (Oven-baked on a ciabatta roll topped with melted mozzarella cheese, ham, pepperoni, lettuce, tomato, red onion, mayonnaise and balsamic vinaigrette.)<br>-Chicken Caesar Wrap(A whole-wheat tortilla wrap filled with chicken breast, Romaine lettuce, Caesar dressing and Parmesan cheese.)<br>-Club Wrap(A whole-wheat tortilla wrap filled with roasted chicken breast, ham, bacon, Colby-Jack cheese, lettuce, tomato and mayo.)</p>
-				<img src="Images/menu_wrap_1.png" >;
-				<img src="Images/menu_wrap_2.png" >;
-				<img src="Images/menu_wrap_3.png" >;
-				<img src="Images/menu_wrap_4.png" >;
-			 <h4>Salad</h4>
-			  <h5>A selection of over 40 items, including fresh-cut vegetables, fruits, meats and cheeses, plus pasta salads, dressings, and other toppers.</h5>
-			   <img src="Images/menu_wide_salads.png" >;
-			 <h4>Sides</h4>
-			  <p>-Sample Platter(Two orders of cheesy breadsticks, large order of oven-baked fries and your choice of any style wings.)<br>-Cheesy Bread)(Pizza dough stuffed and topped with garlic spread and freshly shredded mozzarella served with warm pizza sauce and lite ranch dressing.)<br>-Buffalo Cheesy Bread(Fresh pizza dough stuffed with buffalo chicken breast and shredded mozzarella. Topped with mozzarella, Parmesan, and buffalo sauce. Includes extra sauce, celery sticks, and blue cheese or lite ranch dressing.)<br>-Parmesan Breadsticks(Fresh-made dough topped with a garlic buttery blend and Parmesan cheese, then baked until golden brown. Served with lite ranch dressing and warm pizza sauce.)<br>-Tater Bites(Oven-baked french fries lightly salted and served with ketchup and lite ranch dressing.)</p>
-			    <img src="Images/menu_starters_1.png">;
-				<img src="Images/menu_starters_2.png">;
-				<img src="Images/menu_starters_3.png">;
-				<img src="Images/menu_starters_4.png">;
-				<img src="Images/menu_starters_5.png">;
-			 <h4>Desserts</h4>
-			    <P>-Churros (Served with both salted caramel and white chocolate icing sauce.)<br>-Apple Pizza (An individual-size pizza topped with cinnamon apples and shortbread topping, and drizzled with sweet icing.)<br>-Cinnamon Breadsticks (Freshly baked, topped with cinnamon spread and shortbread topping, and drizzled with sugar icing.)</p>
-				<img src="Images/menu_desserts_1.png">;
-				<img src="Images/menu_desserts_2.png">;
-				<img src="Images/menu_desserts_3.png">;
-			 <h4>Drinks</h4>
-				<h5>Free refills on all soft drinks.</h5>	
-			   <p>-Pepsi<br>-Mountain Dew<br>-Iced Tea<br>-Root Bear<br>-Water<br>-Milk</p>
-				<img src="Images/menu_wide_beverages.png" >;
-			</article>
+			nav ul {
+				list-style-type: none;
+				padding: 0;
+				background-color: #1aff1a;
+			}
+			   
+			nav ul a {
+				text-decoration: none;
+				background-color: #1aff1a;
+			}
 
-			<footer>By Gurvir Dhaliwal</footer>
+			article {
+				margin-left: 169px;
+				border-left: 1px solid gray;
+				padding: 1em;
+				overflow: hidden;
+			}
+			li {
+				font-family:Comic Sans MS;
+				color:	#ff00ff;
+				text-align: center;
+				border-bottom: 1px solid #555;
+				background-color: #1aff1a;
+			}
+			
+			li a {
+				display: block;
+				width: 169px;
+				background-color: #1aff1a;
+				border-bottom: none;
+			}
+			li a.active {
+				background-color: #1affff;
+				color: white;
+			}
+			li:last-child {
+				border-bottom: none;
+			}
 
-		</div>
-
-	</body>
-</html>
+			li a:hover:not(.active) {
+				background-color: #1affff;
+				color: white;
+			}
+			ul {
+				list-style-type: none;
+				margin: 0;
+				padding: 0;
+				width: 169px;
+				position: absolute;
+				overflow: auto;
+				background-color: #1aff1a;
+			}
+			h1 {
+				font-family: Comic Sans MS;
+				color:	#ff00ff;
+			}
+			h4 {
+				font-family: Comic Sans MS;
+				color:	#ff00ff;
+			}			
+			h5 {
+				font-family: Comic Sans MS;
+				color:	#ff00ff;
+			}
+			p {
+				font-family:Comic Sans MS;
+				color:	#ff00ff;
+			}
