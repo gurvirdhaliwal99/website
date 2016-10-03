@@ -23,42 +23,19 @@
 			</nav>
 
 			<article>
-			 <h1>Menu</h1>
-			   <p>Chuck E.Cheese's menu offers a wide variety of choices that can satisfy the hunger of any kid. Dishes such as pizzas, chicken wings and sandwiches with sides, deserts and refreshing drinks. </p>
-			 <h4>Pizza</h4>
-			  <h5>Pizza dough made fresh in-house, never frozen, topped with our own tomato herb sauce, freshly shredded mozzarella cheese and your choice of great meat and vegetable toppings</h5>
-				<p>-Pepperoni<br>-Super Combo (Pepperoni, sausage, beef, black olives, mushrooms, red onions and green peppers)<br>-All meat combo(Pepperoni, sausage, bacon, Canadian bacon and beef)<br>-Cali Alfredo(A creamy Alfredo sauce topped with spinach, sausage, mushrooms and roasted chicken breast.)<br>Vegetarian(Black olives, mushrooms, red onions, green peppers and tomatoes)<br>-Gluten-free(An individual cheese pizza prepared in a dedicated gluten-free facility, shipped, baked and delivered to your table in a sealed bag)<br>-BBQ Chicken(Rich, smoky BBQ sauce topped with strips of roasted chicken breast, red onions, green peppers and crispy onions)</p>
-				<img src="Images/menu_wide_pizza.png" >;
-			 <h4>Wings</h4>
-			  <h5>Choose bone-in buffalo wings or boneless oven-baked, all-white-meat nuggets in sweet chili sauce, smoky BBQ sauce or our hot buffalo wing sauce. Served with celery and blue cheese dressing</h5>
-				<p>-Buffalo<br>-BBQ<br>-Sweet Chili</p>
-				<img src="Images/menu_wide_wings.png" >;
-			 <h4>Wraps/Sandwiches</h4>
-			  <h5>Each wrap or sandwich is served with your choice of fresh fruit, oven-baked French fries or carrot slims, and lite ranch dressing.</h5>
-				<p>-BBQ Chicken Ciabatta (Oven-baked on a ciabatta roll topped with melted Colby-Jack cheese, BBQ chicken breast, crispy onions, lettuce, tomato and lite ranch dressing.)<br>-Italian Sub Ciabatta (Oven-baked on a ciabatta roll topped with melted mozzarella cheese, ham, pepperoni, lettuce, tomato, red onion, mayonnaise and balsamic vinaigrette.)<br>-Chicken Caesar Wrap(A whole-wheat tortilla wrap filled with chicken breast, Romaine lettuce, Caesar dressing and Parmesan cheese.)<br>-Club Wrap(A whole-wheat tortilla wrap filled with roasted chicken breast, ham, bacon, Colby-Jack cheese, lettuce, tomato and mayo.)</p>
-				<img src="Images/menu_wrap_1.png" >;
-				<img src="Images/menu_wrap_2.png" >;
-				<img src="Images/menu_wrap_3.png" >;
-				<img src="Images/menu_wrap_4.png" >;
-			 <h4>Salad</h4>
-			  <h5>A selection of over 40 items, including fresh-cut vegetables, fruits, meats and cheeses, plus pasta salads, dressings, and other toppers.</h5>
-			   <img src="Images/menu_wide_salads.png" >;
-			 <h4>Sides</h4>
-			  <p>-Sample Platter(Two orders of cheesy breadsticks, large order of oven-baked fries and your choice of any style wings.)<br>-Cheesy Bread)(Pizza dough stuffed and topped with garlic spread and freshly shredded mozzarella served with warm pizza sauce and lite ranch dressing.)<br>-Buffalo Cheesy Bread(Fresh pizza dough stuffed with buffalo chicken breast and shredded mozzarella. Topped with mozzarella, Parmesan, and buffalo sauce. Includes extra sauce, celery sticks, and blue cheese or lite ranch dressing.)<br>-Parmesan Breadsticks(Fresh-made dough topped with a garlic buttery blend and Parmesan cheese, then baked until golden brown. Served with lite ranch dressing and warm pizza sauce.)<br>-Tater Bites(Oven-baked french fries lightly salted and served with ketchup and lite ranch dressing.)</p>
-			    <img src="Images/menu_starters_1.png">;
-				<img src="Images/menu_starters_2.png">;
-				<img src="Images/menu_starters_3.png">;
-				<img src="Images/menu_starters_4.png">;
-				<img src="Images/menu_starters_5.png">;
-			 <h4>Desserts</h4>
-			    <P>-Churros (Served with both salted caramel and white chocolate icing sauce.)<br>-Apple Pizza (An individual-size pizza topped with cinnamon apples and shortbread topping, and drizzled with sweet icing.)<br>-Cinnamon Breadsticks (Freshly baked, topped with cinnamon spread and shortbread topping, and drizzled with sugar icing.)</p>
-				<img src="Images/menu_desserts_1.png">;
-				<img src="Images/menu_desserts_2.png">;
-				<img src="Images/menu_desserts_3.png">;
-			 <h4>Drinks</h4>
-				<h5>Free refills on all soft drinks.</h5>	
-			   <p>-Pepsi<br>-Mountain Dew<br>-Iced Tea<br>-Root Bear<br>-Water<br>-Milk</p>
-				<img src="Images/menu_wide_beverages.png" >;
+			  <h1>Reviews</h1>
+			  <p>Chuck E.Cheese's is the highest rated resturant that is for kids. Over 1000 5 stars from satisfied customers and numuerous 4/4.5 stars make sure that your son's or daugther's next birthday party is here.</p>
+			  <p>Here are some of the reviews from our satisfied customers</p>
+			  <p>Love this place!!! My son and I come here all the time for the buffet. Best pizza ever... 
+				Bathroom is very clean and small. Easy way for my 2 year old to use the toilet. 
+				Staff here are very friendly and helpful.  I really enjoy watching my son run wild. 
+				Make sure you come early at 11 if you have little toddlers. 
+				Thanks Chucky Cheese staff for the best experience. -Nohemy and Jonathan</p>
+			  <p>The kids love it! I didn't see a single kid not having fun. The bumper cars were genius, it actually made me wish I was 8 again. I literally asked for the weight limit. they had endless arcade games, a couple were a little off seemed like they needed some touching up. But 95% of all of the games were running well and they were SUPER FUN!
+				pizza was really good, and the facility was really clean, and well kept.
+				I took my 6 yr old son here, but I'm an adult and I just want to go back bc of the games and pizza again. I also didn't get an answer to that weight limit question because he thought I was joking....I wasn't. - Stacy</p>
+			  <p>Brought some family and friends here for my child's birthday party. Great place for kids 12 and under. They left with full tummies and left tuckered out. They made a mistake with our food order and took over an hour to bring it out. But I give them credit because they owned up to their mistake and made up for it by not charging us for the item and throwing in some freebie stuff, as good service should be. They rectified their wrong and had pleasant staff. - David </p>
+				<img src="Images/5stars.png" >;
 			</article>
 
 			<footer>By Gurvir Dhaliwal</footer>
